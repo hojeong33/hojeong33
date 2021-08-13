@@ -15,7 +15,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojeong33&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhj20071)](https://solved.ac/jhj20071) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hojeong33&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhj20071)](https://solved.ac/jhj20071)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hojeong33&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
