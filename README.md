@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- <a href="#3776AB" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997style=flat-square&logo=Python&logoColor=white"/></a> -->
 <!--
 **hojeong33/hojeong33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
