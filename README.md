@@ -2,6 +2,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhojeong33&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jhj20071@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/coco_hoho_)
+[![Notion Badge](https://img.shields.io/badge/Notion-8B89CC?style=flat&logo=Notion&logoColor=white)](https://www.notion.so/hoho-2dee2fd471304cfcb71a6e8c4bc45ca0)
 #### I'M HOJEONG33 
 ## 🔧Stack
 #### Techs that I've used at least once
